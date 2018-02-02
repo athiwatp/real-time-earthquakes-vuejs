@@ -1,4 +1,4 @@
-# usgs-visualization
+# real-time-earthquakes
 
 > a usgs earthquake api visualization
 
@@ -18,5 +18,11 @@ $ npm start
 # generate static project
 $ npm run generate
 ```
+
+## Acknowledgments
+
+* Hat tip to anyone who's component was used
+* USGS API for providing real-time earthquake data
+* Google Maps of course!
 
 For detailed explanation on how things work, check out the [Nuxt.js](https://github.com/nuxt/nuxt.js) and [Vuetify.js](https://vuetifyjs.com/) documentation.
