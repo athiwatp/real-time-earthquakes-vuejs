@@ -19,6 +19,11 @@ $ npm start
 $ npm run generate
 ```
 
+## Built With
+
+* [NuxtJS](https://nuxtjs.org/) - Server-side rendered Vue app
+* [Vuetify](https://vuetifyjs.com/) - Material design component used
+
 ## Acknowledgments
 
 * Hat tip to anyone who's component was used
