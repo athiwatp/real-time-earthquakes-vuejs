@@ -2,6 +2,10 @@
 
 > a usgs earthquake api visualization
 
+## Live Demo
+
+* [https://earthquakes.robertsoriano.com](https://earthquakes.robertsoriano.com)
+
 ## Build Setup
 
 ``` bash
@@ -22,7 +26,7 @@ $ npm run generate
 ## Built With
 
 * [NuxtJS](https://nuxtjs.org/) - Server-side rendered Vue app
-* [Vuetify](https://vuetifyjs.com/) - Material design component used
+* [Vuetify](https://vuetifyjs.com/) - Material design component collection used
 
 ## Acknowledgments
 
