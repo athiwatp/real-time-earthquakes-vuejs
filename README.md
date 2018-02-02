@@ -1,4 +1,4 @@
-# real-time-earthquakes
+# Real-time Earthquake Map
 
 > a usgs earthquake api visualization
 
